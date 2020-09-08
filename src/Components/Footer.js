@@ -23,7 +23,7 @@ class Footer extends Component {
             <ul className='social-links'>{networks}</ul>
 
             <ul>
-              <li>Modified with love by the Dax Code♥️</li>
+              <li>Modified with love by the Dax Code</li>
             </ul>
 
             <ul className='copyright'>
