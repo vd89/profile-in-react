@@ -1,0 +1,160 @@
+{
+  "main": {
+    "name": "Dixit Vora",
+    "occupation": "MERN stack Developer ",
+    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #daxCode",
+    "image": "dixitPicture.jpg",
+    "bio": "My name is Dixit , I'm a Full Stack ReactJS Developer. Currently I'm working at Infibliss Tech LLP as Full stack developer",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "dixitvora@mail.com ",
+    "phone": "+91 97256 25029",
+    "address": {
+      "street": "Nana Mova Main Road",
+      "city": "Rajkot",
+      "state": "IN",
+      "zip": "GUJ 360005"
+    },
+    "website": "https://github.com/vd89",
+    "resumedownload": "https://github.com/vd89",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/dax.vora.12",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/daxvora/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/dax_code/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/vd89",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "DR. Bhimrao Ambedkar University",
+        "degree": "Masters Of Business Administration",
+        "graduated": "January 2012",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Infibliss Tec LLP",
+        "title": "Team Member && MERN Stack Specialist",
+        "years": "May 2018 - Present",
+        "description": "Working and developing application on customer demand."
+      },
+      {
+        "company": "Newbiz s.r.l",
+        "title": "Backend Developer",
+        "years": "Dec 2016 - April 2018",
+        "description": "Developing and designing the backend for the desired project"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "80%"
+      },
+      {
+        "name": "ExpressJs",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "65%"
+      },
+      {
+        "name": "CSS",
+        "level": "65%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Github User Search",
+        "category": "This is the Project to search user from the github with the name and repos ",
+        "image": "GithubSearch.png",
+        "url": "https://reactgithubuser.netlify.app/"
+      },
+      {
+        "title": "React Resort Project",
+        "category": "The resort booking and filter the search in resort.",
+        "image": "ResortProject.png",
+        "url": "https://resortproject.netlify.app/"
+      },
+      {
+        "title": "Contact Manager",
+        "category": "The react base application to manage contact this is the CRUD Operation",
+        "image": "ContactManager.png",
+        "url": "https://contentmanagerwith.netlify.app/"
+      },
+      {
+        "title": "MERN Restaurant Search Application  ",
+        "category": "To show case the use or express and mongodb to store 200000 records and getting them in the front end ",
+        "image": "RestaurantSearch.png",
+        "url": "https://shielded-crag-42613.herokuapp.com/"
+      },
+      {
+        "title": "Factorial Tree",
+        "category": "The project is DOM practice and some algorithm ",
+        "image": "FactorialTree.png",
+        "url": "https://factorialgrowth.netlify.app/"
+      },
+      {
+        "title": "The Materialize css Project",
+        "category": "The Simple landing page of the famous villas to showcase the HTML",
+        "image": "FamousVilla.png",
+        "url": "https://materializefamousvilla.netlify.app/"
+      },
+      {
+        "title": "Small Business Website for CSS",
+        "category": "The small Business to Know more abt the materialize css and other HTML",
+        "image": "SmallBusiness.png",
+        "url": "https://businessmaterialtheam.netlify.app/"
+      },
+      {
+        "title": "The Admin template Design",
+        "category": "This is the admin template ",
+        "image": "AdminTemplate.png",
+        "url": "https://adminsite.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Will Add Some testimonials soon....",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
